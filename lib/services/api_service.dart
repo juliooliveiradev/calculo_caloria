@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:flutter/material.dart'; // Importe o material.dart aqui
-import '../utils/constants.dart'; // Importe a constante aqui
+import 'package:flutter/material.dart'; 
+import '../utils/constants.dart'; 
 
 class ApiService {
   static Future<List<dynamic>> fetchArticles(String goal) async {
