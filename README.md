@@ -1,4 +1,4 @@
-# My Calorie App
+# Calculo Caloria
 
 Este é um aplicativo Flutter para calcular a ingestão calórica diária com base em informações do usuário, como peso, altura, idade, gênero e nível de atividade. O aplicativo também fornece uma lista de artigos relacionados ao objetivo do usuário (ganho ou perda de peso).
 
